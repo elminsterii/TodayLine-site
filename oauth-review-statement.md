@@ -2,7 +2,7 @@
 
 **Application Name:** TodayLine  
 **Application Type:** Desktop Application (currently available on Windows; macOS planned)  
-**Developer Contact:** support@todayline.app  
+**Developer Contact:** elminsterii2@gmail.com  
 **Date:** April 10, 2026  
 
 ---
